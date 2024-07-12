@@ -1,0 +1,61 @@
+body{
+    background-image: url('/home/studen/Documents/My_Portifolio/my-portfolio/public/Image/ramiro-mendes-CjS3QsRuxnE-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.landing-page{
+    color: black;
+    padding-bottom: 20%;
+    padding-left: 18%;
+    padding-right: 18%;
+
+}
+
+.navbar{
+    display: flex;
+    gap: 15%;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-top: 10%;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif; 
+    color: rgb(30, 29, 29);
+    
+}
+
+.intro{
+    padding-top: 15%;
+    /* padding-left: 5%; */
+}
+
+.name{
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.prof{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.hook{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.action{
+    padding: 20px 30px;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    font-weight: bolder;
+    background-color: rgb(70, 25, 25);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+

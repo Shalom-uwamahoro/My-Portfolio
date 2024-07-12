@@ -1,0 +1,59 @@
+
+.profile{
+   
+    background-color: rgb(43, 29, 29);
+    
+    padding-bottom: 11.5%;
+    padding-left: 18%;
+    padding-right: 18%;
+
+}
+
+.me{
+    font-size: 40px;
+    padding-left: 1%;
+    padding-top: 9%;
+    padding-bottom: 9%;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+    text-decoration: underline ;
+    
+    
+}
+
+
+.profile-details{
+    display: flex;
+    gap: 10%;
+
+    width: 100%;
+    color: azure;
+}
+
+.image{
+
+    border-radius: 20px;
+    width: 440px;
+    height: 520px;
+
+}
+
+.para{
+    font-size: 25px;
+    word-spacing: 6px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top:3%;
+    padding-bottom: 6%;
+    font-style: italic;
+    
+}
+
+.cv{
+    padding: 12px 30px;
+    border-radius: 15px;
+    border: none;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+    background-color: rgb(114, 14, 134);
+}

@@ -1,0 +1,41 @@
+.projects{
+   
+    background-color: rgb(43, 29, 29);
+    
+    padding-bottom: 11.5%;
+    padding-left: 18%;
+    padding-right: 18%;
+
+
+}
+.project-1{
+    border: 2px solid violet;
+    width: 40%;
+    height:400px ;
+
+}
+
+.h1{
+    font-size: 40px;
+    padding-left: 1%;
+    padding-top: 9%;
+    padding-bottom: 9%;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+    text-decoration: underline ;
+
+}
+.h3{
+
+}
+
+.p{
+
+}
+
+.weather-img{
+width: 200px;
+height: 200px;
+
+
+}
